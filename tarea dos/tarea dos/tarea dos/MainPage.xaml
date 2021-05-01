@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="tarea_dos.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="12" CornerRadius="0">
+            <Label Text="CALIFICACIONES" HorizontalTextAlignment="Center" TextColor="White" FontSize="28"/>
+        </Frame>
+        <Label Text="Sistema de calificaciones UISRAEL" TextColor="Black" FontSize="17" Padding="10,10,30,10"
+               HorizontalTextAlignment="Center" BackgroundColor="Coral"/>
+        <Label Text="PRIMER BIMESTRE " FontSize="20" />
+        <Label Text="Nota de seguimiento 1 " FontSize="20" />
+        <Entry x:Name="txtDato1" Keyboard="Numeric"/>
+        <Label Text="Nota de examen 1 " FontSize="20"/>
+        <Entry x:Name="txtDato2" Keyboard="Numeric"/>
+        <Label Text="SEGUNDO SEMESTRE " FontSize="20" />
+        <Label Text="Nota de seguimiento 2 " FontSize="20" />
+        <Entry x:Name="txtDato3" Keyboard="Numeric"/>
+        <Label Text="Nota de examen2 " FontSize="20"/>
+        <Entry x:Name="txtDato4" Keyboard="Numeric"/>
+        <Label Text="nota parcial 1: " FontSize="24" BackgroundColor="Coral"/>
+        <Entry x:Name="txtResultado1" IsReadOnly="True" />
+        
+        
+        <Label Text="nota parcial 2: " FontSize="24" BackgroundColor="Coral"/>
+        <Entry x:Name="txtResultado2" IsReadOnly="True" />
+
+        <Entry x:Name="txtEstado" IsReadOnly="True" />
+
+        <Button x:Name="btnCalcular"
+                Text="Calcular"
+                Clicked="btnCalcular_Clicked">
+        </Button>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,13 @@
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\bin\Debug\netstandard2.0\tarea dos.deps.json
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\bin\Debug\netstandard2.0\tarea dos.dll
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\bin\Debug\netstandard2.0\ref\tarea dos.dll
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\bin\Debug\netstandard2.0\tarea dos.pdb
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\tarea dos.AssemblyInfoInputs.cache
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\tarea dos.AssemblyInfo.cs
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\tarea dos.csproj.CoreCompileInputs.cache
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\XamlC.stamp
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\tarea dos.dll
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\ref\tarea dos.dll
+D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos\obj\Debug\netstandard2.0\tarea dos.pdb

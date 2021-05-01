@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromleft.xml
+alpha;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\shellcontent.xml
+attr;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\tabbar.xml
+declare-styleable;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+external-cache-path;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+item;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
+LinearLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\bottomtablayout.xml
+paths;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\attrs.xml
+resources;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\strings.xml
+resources;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\styles.xml
+set;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromleft.xml
+set;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromright.xml
+set;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
+set;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\exittoright.xml
+string;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\strings.xml
+style;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\values\styles.xml
+style;obj\Debug\110\res\values\styles.xml
+translate;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromleft.xml
+translate;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\enterfromright.xml
+translate;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\exittoleft.xml
+translate;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\noveno\Aplicaciones moviles\semana2CA\tarea dos\tarea dos\tarea dos.Android\obj\Debug\110\lp\45\jl\res\layout\flyoutcontent.xml
